@@ -4,6 +4,8 @@
 
 ### SCRIPT para verificar se o contato existe ou não
 
+```JAVASCRIPT
+
 var lista = [
 '5581996429878'
 ,'5592999603373'
@@ -74,3 +76,4 @@ var testeContatos = async () => {
 }
 
 testeContatos()
+```
