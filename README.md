@@ -1,6 +1,8 @@
 # WhatsappBot
 
 
+O script é utilizado dentro do console do navegador, dentro da página do web.whatsapp.com
+
 
 ### SCRIPT para verificar se o contato existe ou não
 
